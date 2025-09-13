@@ -18,7 +18,7 @@ Ces instructions supposent que [Anaconda](https://www.anaconda.com/products/indi
 1. Ouvrez **Anaconda Prompt** et clonez ce dépôt à l’emplacement souhaité :  
    ```bash
    cd <votre_dossier>
-   git clone https://github.com/javiertg9/neural-style-transfer-app
+   git clone https://github.com/thiernodaoudaly/neural-style-transfer-app
    cd neural-style-transfer-app
 2. Créez l’environnement avec les dépendances fournies dans environment.yml :
    ```bash
